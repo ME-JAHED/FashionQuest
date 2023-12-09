@@ -1,0 +1,47 @@
+.iphone-text
+{
+    text-align: center;
+    font-size: 30px;
+}
+.iphone-button
+{
+    text-align: center;
+}
+.iphone-image
+{
+    text-align: center;
+}
+.text2
+{
+    text-align: end;
+}
+.iphone-image2
+{
+    text-align: end;
+}
+.cards
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.category-container 
+{
+    background-color: #EDEDED;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;  
+}
+.box-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+
+
+
